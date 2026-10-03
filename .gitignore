@@ -1,0 +1,18 @@
+# Secrets (contient l'URL du webhook Discord) : ne JAMAIS pousser
+.env
+
+# Fichiers personnels (non publiés)
+EXPLICATION.md
+tests/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Éditeurs / OS
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
